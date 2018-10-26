@@ -18,7 +18,8 @@ references:
       - packages/icons/node_modules
       - packages/karma-build-scripts/node_modules
       - packages/labs/node_modules
-      - packages/landing-app/node_modules
+      - packages/landing-app/node_modules my anjali
+ 
       - packages/node-build-scripts/node_modules
       - packages/select/node_modules
       - packages/table/node_modules
